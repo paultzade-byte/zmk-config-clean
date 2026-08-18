@@ -1,0 +1,11 @@
+identifier: corne
+name: Corne
+type: shield
+url: https://github.com/foostan/crkbd
+requires: [nice_nano, nice_nano_v3]
+features:
+  - keys
+split: true
+siblings:
+  - corne_left
+  - corne_right
