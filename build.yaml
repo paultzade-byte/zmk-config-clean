@@ -1,7 +1,7 @@
 ---
 include:
-  - board: nice_nano_v3
+  - board: nice_nano_v3@zmk
     shield: corne_left
 
-  - board: nice_nano_v3
+  - board: nice_nano_v3@zmk
     shield: corne_right
